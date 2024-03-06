@@ -1,0 +1,120 @@
+<jittershader name="displacementShader">
+    <description> Our first shader tutorial </description>
+
+    <param name="modelViewProjectionMatrix" type="mat4" state="MODELVIEW_PROJECTION_MATRIX" />
+    <param name="texture0_Mat" type="mat4" state="TEXTURE0_MATRIX"/>
+    <param name="texture1_Mat" type="mat4" state="TEXTURE0_MATRIX"/>
+
+    <param name="position" type="vec3" state="POSITION" />
+    <param name="textureCoord" type="vec2" state="TEXCOORD" />
+    <param name="vertexNormal" type="vec3" state="NORMAL" />
+    
+    <param name="tex0" type="int" default="0"/>
+    <param name="tex1" type="int" default="1"/>
+
+    <param name="freq" type="int" default="0.2">
+        <description>The frequency of the noise</description>
+    </param>
+
+    <language name="glsl" version="1.5">
+
+
+        <bind param="tex0" program="vp" />
+        <bind param="tex1" program="fp" />
+        <bind param="freq" program="fp" />
+        <bind param="modelViewProjectionMatrix" program="vp" />
+        <bind param="texture0_Mat" program="vp" />
+        <bind param="texture1_Mat" program="vp" />
+        <bind param="textureCoord" program="vp" />
+        <bind param="position" program="vp" />
+        <bind param="vertexNormal" program="vp" />
+    
+        <program name="vp" type="vertex">
+<![CDATA[
+
+// vertex shader
+#version 330 core
+
+in vec3 position;
+in vec2 textureCoord;
+in vec3 vertexNormal;
+
+uniform mat4 modelViewProjectionMatrix;
+uniform mat4 texture0_Mat;
+uniform mat4 texture1_Mat;
+uniform sampler2DRect tex0; // Movie texture
+
+// uniform sampler2DRect tex0;
+uniform int freq; // Frequency of displacement
+
+out vec2 texCoord;
+out vec2 texCoord1;
+
+void main() 
+{
+    // texCoord = (texture0_Mat * vec4(textureCoord, 0.0, 1.0)).xy;
+    // texCoord1 = (texture1_Mat * vec4(textureCoord, 0.0, 1.0)).xy;
+    // gl_Position = modelViewProjectionMatrix * vec4(position, 1.0);
+   // Transform texture coordinates for both textures
+   // Get the grayscale value from the texture
+    texCoord = (texture0_Mat * vec4(textureCoord, 0.0, 1.0)).xy;
+    texCoord1 = (texture1_Mat * vec4(textureCoord, 0.0, 1.0)).xy;
+
+    float displacement = texture(tex0, texCoord).r;
+
+    // Calculate displacement amount using frequency
+    float displacementAmount = displacement * float(freq);
+
+    // Displace the vertex position along its normal
+    vec3 displacedPos = position + vertexNormal * displacementAmount;
+
+    // Transform the vertex position to clip space
+    gl_Position = modelViewProjectionMatrix * vec4(displacedPos, 1.0);
+
+    
+}
+]]>
+        </program>
+
+        <program name="fp" type="fragment">
+<![CDATA[
+
+// fragment shader
+#version 330 core
+
+in vec2 texCoord;
+in vec2 texCoord1;
+uniform sampler2DRect tex0; // Movie texture
+uniform sampler2DRect tex1; // Movie texture
+uniform int freq; // Frequency of displacement
+out vec4 outColor;
+
+
+void main() 
+{
+
+   // Sample color from the movie texture using its texture coordinates
+    vec4 colorFromTexture1 = texture(tex1, texCoord1);
+    
+    // Get the grayscale value from the displacement texture
+    float displacement = texture(tex0, texCoord).r;
+    
+    // Calculate displacement amount using frequency
+    float displacementAmount = displacement * 0;
+    
+    // Scale the displacement to match the texture coordinates' range
+    vec2 displacementVec = vec2(displacementAmount) * (texCoord1 - vec2(0.5));
+    
+    // Displace the texture coordinates
+    vec2 displacedTexCoord = texCoord + displacementVec;
+    
+    // Sample color from the displaced texture
+    vec4 colorFromDisplacedTexture = texture(tex0, displacedTexCoord);
+    
+    // Combine the colors from both textures
+    outColor = colorFromDisplacedTexture / colorFromTexture1  * vec4(1.0, 0.0, 0.0, 1.0);
+}
+]]>
+        </program>
+    </language>
+</jittershader>
