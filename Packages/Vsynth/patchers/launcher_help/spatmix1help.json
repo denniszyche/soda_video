@@ -1,0 +1,51 @@
+{
+	"pattrstorage" : 	{
+		"name" : "delstep",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"vs_sync::sync_invert" : [ 0.0 ],
+					"vs_sync::sync_pos" : [ 2.0 ],
+					"vs_sync::sync_time" : [ 0.0 ],
+					"vs_camera_s::cam_on" : [ 1.0 ],
+					"vs_camera_s::cam_select" : [ 0 ],
+					"vs_frame_delay[1]::fd_fdbck" : [ 0.0 ],
+					"vs_frame_delay[1]::fd_mix" : [ 100.0 ],
+					"vs_frame_delay[1]::fd_time" : [ 10.0 ],
+					"vs_frame_delay[3]::fd_fdbck" : [ 0.0 ],
+					"vs_frame_delay[3]::fd_mix" : [ 100.0 ],
+					"vs_frame_delay[3]::fd_time" : [ 30.0 ],
+					"vs_frame_delay[2]::fd_fdbck" : [ 0.0 ],
+					"vs_frame_delay[2]::fd_mix" : [ 100.0 ],
+					"vs_frame_delay[2]::fd_time" : [ 50.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"vs_sync::sync_invert" : [ 0.0 ],
+					"vs_sync::sync_pos" : [ 2.0 ],
+					"vs_sync::sync_time" : [ 0.0 ],
+					"vs_camera_s::cam_on" : [ 1.0 ],
+					"vs_camera_s::cam_select" : [ 0 ],
+					"vs_frame_delay[1]::fd_fdbck" : [ 0.0 ],
+					"vs_frame_delay[1]::fd_mix" : [ 100.0 ],
+					"vs_frame_delay[1]::fd_time" : [ 30.0 ],
+					"vs_frame_delay[3]::fd_fdbck" : [ 0.0 ],
+					"vs_frame_delay[3]::fd_mix" : [ 100.0 ],
+					"vs_frame_delay[3]::fd_time" : [ 10.0 ],
+					"vs_frame_delay[2]::fd_fdbck" : [ 0.0 ],
+					"vs_frame_delay[2]::fd_mix" : [ 100.0 ],
+					"vs_frame_delay[2]::fd_time" : [ 50.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

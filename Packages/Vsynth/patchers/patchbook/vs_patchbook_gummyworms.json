@@ -1,0 +1,249 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Vsynth",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"vs_filter_lp2x::lpf_freq" : [ 0.192913385826772 ],
+					"vs_huemod_2::hm2_range" : [ 1.0 ],
+					"vs_huemod_2::hm2_sat_range" : [ 0.0 ],
+					"vs_huemod_2::hm2_hm" : [ 0.0 ],
+					"vs_huemod_2::hm2_hue" : [ 9.921259842519712 ],
+					"vs_huemod_2::hm2_sat" : [ 1.0 ],
+					"vs_offset+rot[1]::offrot_anglemenu" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_x_range" : [ 1.0 ],
+					"vs_offset+rot[1]::offrot_y_range" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_angle" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_boundmode" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_x" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_y" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_zoom" : [ 0.992125984251969 ],
+					"vs_edges::edges_freq" : [ 0.21259842519685 ],
+					"vs_edges::edges_mode" : [ 1.0 ],
+					"vs_edges::edges_smth" : [ 0.102362204724409 ],
+					"vs_edges::edges_thrshld" : [ 0.54330662992126 ],
+					"vs_luma_key::luma_invert" : [ 0.0 ],
+					"vs_luma_key::luma_smth" : [ 0.0 ],
+					"vs_luma_key::luma_thrshld" : [ 0.740157220472441 ],
+					"vs_camera_s::cam_invx" : [ 0.0 ],
+					"vs_camera_s::cam_on" : [ 1.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"vs_filter_lp2x::lpf_freq" : [ 0.188188976377953 ],
+					"vs_huemod_2::hm2_range" : [ 1.0 ],
+					"vs_huemod_2::hm2_sat_range" : [ 0.0 ],
+					"vs_huemod_2::hm2_hm" : [ 0.0 ],
+					"vs_huemod_2::hm2_hue" : [ 9.921259842519712 ],
+					"vs_huemod_2::hm2_sat" : [ 1.0 ],
+					"vs_offset+rot[1]::offrot_anglemenu" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_x_range" : [ 1.0 ],
+					"vs_offset+rot[1]::offrot_y_range" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_angle" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_boundmode" : [ 2.0 ],
+					"vs_offset+rot[1]::offrot_x" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_y" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_zoom" : [ 0.992125984251969 ],
+					"vs_edges::edges_freq" : [ 0.214566929133858 ],
+					"vs_edges::edges_mode" : [ 1.0 ],
+					"vs_edges::edges_smth" : [ 0.062992125984252 ],
+					"vs_edges::edges_thrshld" : [ 0.540944422834644 ],
+					"vs_luma_key::luma_invert" : [ 0.0 ],
+					"vs_luma_key::luma_smth" : [ 0.0 ],
+					"vs_luma_key::luma_thrshld" : [ 0.889763669291338 ],
+					"vs_camera_s::cam_invx" : [ 0.0 ],
+					"vs_camera_s::cam_on" : [ 1.0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"vs_filter_lp2x::lpf_freq" : [ 0.188188976377953 ],
+					"vs_huemod_2::hm2_range" : [ 1.0 ],
+					"vs_huemod_2::hm2_sat_range" : [ 0.0 ],
+					"vs_huemod_2::hm2_hm" : [ 0.0 ],
+					"vs_huemod_2::hm2_hue" : [ 9.921259842519712 ],
+					"vs_huemod_2::hm2_sat" : [ 1.0 ],
+					"vs_offset+rot[1]::offrot_anglemenu" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_x_range" : [ 1.0 ],
+					"vs_offset+rot[1]::offrot_y_range" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_angle" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_boundmode" : [ 2.0 ],
+					"vs_offset+rot[1]::offrot_x" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_y" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_zoom" : [ 1.0 ],
+					"vs_edges::edges_freq" : [ 0.214566929133858 ],
+					"vs_edges::edges_mode" : [ 1.0 ],
+					"vs_edges::edges_smth" : [ 0.037795275590551 ],
+					"vs_edges::edges_thrshld" : [ 0.540944422834644 ],
+					"vs_luma_key::luma_invert" : [ 0.0 ],
+					"vs_luma_key::luma_smth" : [ 0.0 ],
+					"vs_luma_key::luma_thrshld" : [ 0.740157220472441 ],
+					"vs_camera_s::cam_invx" : [ 0.0 ],
+					"vs_camera_s::cam_on" : [ 1.0 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"vs_filter_lp2x::lpf_freq" : [ 0.176968503937008 ],
+					"vs_huemod_2::hm2_range" : [ 0.0 ],
+					"vs_huemod_2::hm2_sat_range" : [ 0.0 ],
+					"vs_huemod_2::hm2_hm" : [ 0.036220472440945 ],
+					"vs_huemod_2::hm2_hue" : [ 0.0 ],
+					"vs_huemod_2::hm2_sat" : [ 1.0 ],
+					"vs_offset+rot[1]::offrot_anglemenu" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_x_range" : [ 1.0 ],
+					"vs_offset+rot[1]::offrot_y_range" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_angle" : [ -0.024724409448815 ],
+					"vs_offset+rot[1]::offrot_boundmode" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_x" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_y" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_zoom" : [ 0.992125984251969 ],
+					"vs_edges::edges_freq" : [ 0.198818897637795 ],
+					"vs_edges::edges_mode" : [ 1.0 ],
+					"vs_edges::edges_smth" : [ 0.110236220472441 ],
+					"vs_edges::edges_thrshld" : [ 0.561181153543307 ],
+					"vs_luma_key::luma_invert" : [ 0.0 ],
+					"vs_luma_key::luma_smth" : [ 0.0 ],
+					"vs_luma_key::luma_thrshld" : [ 0.889763669291339 ],
+					"vs_camera_s::cam_invx" : [ 0.0 ],
+					"vs_camera_s::cam_on" : [ 1.0 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"vs_filter_lp2x::lpf_freq" : [ 0.176968503937008 ],
+					"vs_huemod_2::hm2_range" : [ 0.0 ],
+					"vs_huemod_2::hm2_sat_range" : [ 0.0 ],
+					"vs_huemod_2::hm2_hm" : [ 0.036220472440945 ],
+					"vs_huemod_2::hm2_hue" : [ 345.82677165354329 ],
+					"vs_huemod_2::hm2_sat" : [ 1.818897637795274 ],
+					"vs_offset+rot[1]::offrot_anglemenu" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_x_range" : [ 1.0 ],
+					"vs_offset+rot[1]::offrot_y_range" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_angle" : [ 0.271968503937011 ],
+					"vs_offset+rot[1]::offrot_boundmode" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_x" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_y" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_zoom" : [ 0.988188976377953 ],
+					"vs_edges::edges_freq" : [ 0.173228346456693 ],
+					"vs_edges::edges_mode" : [ 1.0 ],
+					"vs_edges::edges_smth" : [ 0.110236220472441 ],
+					"vs_edges::edges_thrshld" : [ 0.561181153543307 ],
+					"vs_luma_key::luma_invert" : [ 0.0 ],
+					"vs_luma_key::luma_smth" : [ 0.0 ],
+					"vs_luma_key::luma_thrshld" : [ 1.0 ],
+					"vs_camera_s::cam_invx" : [ 0.0 ],
+					"vs_camera_s::cam_on" : [ 1.0 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"data" : 				{
+					"vs_filter_lp2x::lpf_freq" : [ 0.176968503937008 ],
+					"vs_huemod_2::hm2_range" : [ 0.0 ],
+					"vs_huemod_2::hm2_sat_range" : [ 0.0 ],
+					"vs_huemod_2::hm2_hm" : [ 0.036220472440945 ],
+					"vs_huemod_2::hm2_hue" : [ 345.82677165354329 ],
+					"vs_huemod_2::hm2_sat" : [ 1.818897637795274 ],
+					"vs_offset+rot[1]::offrot_anglemenu" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_x_range" : [ 1.0 ],
+					"vs_offset+rot[1]::offrot_y_range" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_angle" : [ 0.271968503937011 ],
+					"vs_offset+rot[1]::offrot_boundmode" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_x" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_y" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_zoom" : [ 0.988188976377953 ],
+					"vs_edges::edges_freq" : [ 0.181299212598425 ],
+					"vs_edges::edges_mode" : [ 1.0 ],
+					"vs_edges::edges_smth" : [ 0.110236220472441 ],
+					"vs_edges::edges_thrshld" : [ 0.521811035433073 ],
+					"vs_luma_key::luma_invert" : [ 0.0 ],
+					"vs_luma_key::luma_smth" : [ 0.0 ],
+					"vs_luma_key::luma_thrshld" : [ 1.0 ],
+					"vs_camera_s::cam_invx" : [ 0.0 ],
+					"vs_camera_s::cam_on" : [ 1.0 ]
+				}
+
+			}
+,
+			"7" : 			{
+				"id" : 7,
+				"data" : 				{
+					"vs_filter_lp2x::lpf_freq" : [ 0.176968503937008 ],
+					"vs_huemod_2::hm2_range" : [ 0.0 ],
+					"vs_huemod_2::hm2_sat_range" : [ 0.0 ],
+					"vs_huemod_2::hm2_hm" : [ 0.036220472440945 ],
+					"vs_huemod_2::hm2_hue" : [ 345.82677165354329 ],
+					"vs_huemod_2::hm2_sat" : [ 1.818897637795274 ],
+					"vs_offset+rot[1]::offrot_anglemenu" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_x_range" : [ 1.0 ],
+					"vs_offset+rot[1]::offrot_y_range" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_angle" : [ 0.271968503937011 ],
+					"vs_offset+rot[1]::offrot_boundmode" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_x" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_y" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_zoom" : [ 0.988188976377953 ],
+					"vs_edges::edges_freq" : [ 0.181299212598425 ],
+					"vs_edges::edges_mode" : [ 1.0 ],
+					"vs_edges::edges_smth" : [ 0.110236220472441 ],
+					"vs_edges::edges_thrshld" : [ 0.592677248031497 ],
+					"vs_luma_key::luma_invert" : [ 0.0 ],
+					"vs_luma_key::luma_smth" : [ 0.0 ],
+					"vs_luma_key::luma_thrshld" : [ 1.0 ],
+					"vs_camera_s::cam_invx" : [ 0.0 ],
+					"vs_camera_s::cam_on" : [ 1.0 ]
+				}
+
+			}
+,
+			"8" : 			{
+				"id" : 8,
+				"data" : 				{
+					"vs_filter_lp2x::lpf_freq" : [ 0.176968503937008 ],
+					"vs_huemod_2::hm2_range" : [ 0.0 ],
+					"vs_huemod_2::hm2_sat_range" : [ 0.0 ],
+					"vs_huemod_2::hm2_hm" : [ 0.036220472440945 ],
+					"vs_huemod_2::hm2_hue" : [ 345.82677165354329 ],
+					"vs_huemod_2::hm2_sat" : [ 1.818897637795274 ],
+					"vs_offset+rot[1]::offrot_anglemenu" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_x_range" : [ 1.0 ],
+					"vs_offset+rot[1]::offrot_y_range" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_angle" : [ 0.271968503937011 ],
+					"vs_offset+rot[1]::offrot_boundmode" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_x" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_y" : [ 0.0 ],
+					"vs_offset+rot[1]::offrot_zoom" : [ 0.988188976377953 ],
+					"vs_edges::edges_freq" : [ 0.181299212598425 ],
+					"vs_edges::edges_mode" : [ 1.0 ],
+					"vs_edges::edges_smth" : [ 0.110236220472441 ],
+					"vs_edges::edges_thrshld" : [ 0.579291407874016 ],
+					"vs_luma_key::luma_invert" : [ 0.0 ],
+					"vs_luma_key::luma_smth" : [ 0.0 ],
+					"vs_luma_key::luma_thrshld" : [ 1.0 ],
+					"vs_camera_s::cam_invx" : [ 0.0 ],
+					"vs_camera_s::cam_on" : [ 1.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

@@ -1,0 +1,47 @@
+{
+	"pattrstorage" : 	{
+		"name" : "ejemplo_comparator",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"vs_camera_s::cam_on" : [ 1.0 ],
+					"vs_camera_s::cam_select" : [ 0 ],
+					"vs_op1::op1_num" : [ 1.0 ],
+					"vs_op1::op1_op" : [ 5.0 ],
+					"vs_preview::preview_size" : [ 2.0 ],
+					"vs_comparator::comparator_rgb" : [ 0.0 ],
+					"vs_comparator::comparator_smth" : [ 0.0 ],
+					"vs_comparator::comparator_thrshld" : [ 0.5 ],
+					"vs_comparator[1]::comparator_rgb" : [ 0.0 ],
+					"vs_comparator[1]::comparator_smth" : [ 0.0 ],
+					"vs_comparator[1]::comparator_thrshld" : [ 0.5 ],
+					"vs_preview[1]::preview_size" : [ 2.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"vs_camera_s::cam_on" : [ 1.0 ],
+					"vs_camera_s::cam_select" : [ 0 ],
+					"vs_op1::op1_num" : [ 1.0 ],
+					"vs_op1::op1_op" : [ 5.0 ],
+					"vs_preview::preview_size" : [ 2.0 ],
+					"vs_comparator::comparator_rgb" : [ 1.0 ],
+					"vs_comparator::comparator_smth" : [ 0.055118 ],
+					"vs_comparator::comparator_thrshld" : [ 0.502362 ],
+					"vs_comparator[1]::comparator_rgb" : [ 1.0 ],
+					"vs_comparator[1]::comparator_smth" : [ 0.055118 ],
+					"vs_comparator[1]::comparator_thrshld" : [ 0.508268 ],
+					"vs_preview[1]::preview_size" : [ 2.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

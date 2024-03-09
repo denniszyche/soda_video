@@ -1,0 +1,87 @@
+{
+	"pattrstorage" : 	{
+		"name" : "hpfc_flow_cam",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"vs_edges::edges_freq" : [ 0.204724 ],
+					"vs_edges::edges_smth" : [ 0.0 ],
+					"vs_edges::edges_thrshld" : [ 0.456692 ],
+					"vs_filter_temp::temp_freq" : [ 0.346457 ],
+					"vs_filter_lp4x::lpf_freq" : [ 0.234252 ],
+					"vs_filter_hp4x::hpf_freq" : [ 0.163228 ],
+					"vs_offset+rot::offrot_angle" : [ 0.0 ],
+					"vs_offset+rot::offrot_anglemenu" : [ 0.0 ],
+					"vs_offset+rot::offrot_boundmode" : [ 0.0 ],
+					"vs_offset+rot::offrot_x" : [ 0.0 ],
+					"vs_offset+rot::offrot_x_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_y" : [ 0.0 ],
+					"vs_offset+rot::offrot_y_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_zoom" : [ 0.988189 ],
+					"vs_fader::fader" : [ 0.755906 ],
+					"vs_op2::op2_op" : [ 7.0 ],
+					"vs_fader[2]::fader" : [ 1.204724 ],
+					"vs_camera_s[2]::cam_on" : [ 1.0 ],
+					"vs_camera_s[2]::cam_select" : [ 0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"vs_edges::edges_freq" : [ 0.204724 ],
+					"vs_edges::edges_smth" : [ 0.0 ],
+					"vs_edges::edges_thrshld" : [ 0.456692 ],
+					"vs_filter_temp::temp_freq" : [ 0.346457 ],
+					"vs_filter_lp4x::lpf_freq" : [ 0.25 ],
+					"vs_filter_hp4x::hpf_freq" : [ 0.163228 ],
+					"vs_offset+rot::offrot_angle" : [ 0.0 ],
+					"vs_offset+rot::offrot_anglemenu" : [ 0.0 ],
+					"vs_offset+rot::offrot_boundmode" : [ 0.0 ],
+					"vs_offset+rot::offrot_x" : [ 0.0 ],
+					"vs_offset+rot::offrot_x_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_y" : [ 0.0 ],
+					"vs_offset+rot::offrot_y_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_zoom" : [ 0.988189 ],
+					"vs_fader::fader" : [ 0.755906 ],
+					"vs_op2::op2_op" : [ 7.0 ],
+					"vs_fader[2]::fader" : [ 1.204724 ],
+					"vs_camera_s[2]::cam_on" : [ 1.0 ],
+					"vs_camera_s[2]::cam_select" : [ 0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"vs_edges::edges_freq" : [ 0.204724 ],
+					"vs_edges::edges_smth" : [ 0.0 ],
+					"vs_edges::edges_thrshld" : [ 0.456692 ],
+					"vs_filter_temp::temp_freq" : [ 0.346457 ],
+					"vs_filter_lp4x::lpf_freq" : [ 0.218504 ],
+					"vs_filter_hp4x::hpf_freq" : [ 0.153543 ],
+					"vs_offset+rot::offrot_angle" : [ -0.153291 ],
+					"vs_offset+rot::offrot_anglemenu" : [ 0.0 ],
+					"vs_offset+rot::offrot_boundmode" : [ 0.0 ],
+					"vs_offset+rot::offrot_x" : [ -0.002677 ],
+					"vs_offset+rot::offrot_x_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_y" : [ -0.002992 ],
+					"vs_offset+rot::offrot_y_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_zoom" : [ 1.0 ],
+					"vs_fader::fader" : [ 0.708661 ],
+					"vs_op2::op2_op" : [ 7.0 ],
+					"vs_fader[2]::fader" : [ 1.192913 ],
+					"vs_camera_s[2]::cam_on" : [ 1.0 ],
+					"vs_camera_s[2]::cam_select" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

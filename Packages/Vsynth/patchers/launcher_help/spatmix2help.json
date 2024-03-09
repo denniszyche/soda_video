@@ -1,0 +1,47 @@
+{
+	"pattrstorage" : 	{
+		"name" : "spatmix1",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"vs_luma_key::luma_invert" : [ 1.0 ],
+					"vs_luma_key::luma_smth" : [ 0.0 ],
+					"vs_luma_key::luma_thrshld" : [ 0.362204086614173 ],
+					"vs_camera_s::live.text" : [ 1.0 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_freq" : [ 275.59055118110183 ],
+					"vs_wfg_2::wfg2_pm" : [ 1.0 ],
+					"vs_wfg_2::wfg2_pw" : [ 25.0 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 1.0 ],
+					"vs_wfg_2::wfg2_time" : [ 4.0 ],
+					"vs_wfg_2::wfg2_time_range" : [ 0 ],
+					"vs_wfg_2::wfg2_wf" : [ 4.0 ],
+					"vs_filter_lp4x::lpf_freq" : [ 0.238188976377953 ],
+					"vs_comparator::comparator_rgb" : [ 1.0 ],
+					"vs_comparator::comparator_smth" : [ 0.149606299212598 ],
+					"vs_comparator::comparator_thrshld" : [ 0.688976566929134 ],
+					"vs_offset+rot::offrot_anglemenu" : [ 0.0 ],
+					"vs_offset+rot::offrot_x_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_y_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_angle" : [ 0.0 ],
+					"vs_offset+rot::offrot_boundmode" : [ 3.0 ],
+					"vs_offset+rot::offrot_x" : [ 0.0 ],
+					"vs_offset+rot::offrot_y" : [ 0.009448818897638 ],
+					"vs_offset+rot::offrot_zoom" : [ 0.931259842519685 ],
+					"vs_sync::sync_invert" : [ 0.0 ],
+					"vs_sync::sync_pos" : [ 0.0 ],
+					"vs_sync::sync_time" : [ 2.0 ],
+					"vs_preview::preview_size" : [ 2.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

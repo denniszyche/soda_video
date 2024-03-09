@@ -1,0 +1,95 @@
+{
+	"pattrstorage" : 	{
+		"name" : "ff2",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"vs_op1::op1_op" : [ 5.0 ],
+					"vs_op1::op1_num" : [ 1.0 ],
+					"vs_frame_delay::fd_fdbck" : [ 0.0 ],
+					"vs_frame_delay::fd_mix" : [ 100.0 ],
+					"vs_frame_delay::fd_time" : [ 5.0 ],
+					"vs_frame_delay::fs_playback" : [ 0.0 ],
+					"vs_huemod_2::hm2_range" : [ 1.0 ],
+					"vs_huemod_2::hm2_sat_range" : [ 0.0 ],
+					"vs_huemod_2::hm2_hm" : [ 0.0 ],
+					"vs_huemod_2::hm2_hue" : [ 17.00787401574803 ],
+					"vs_huemod_2::hm2_sat" : [ 1.0 ],
+					"vs_colorizer::clrizer_color" : [ 0.882352941176471, 0.0, 0.0, 1.0, 0.0, 1.0, 0.441176470588235 ],
+					"vs_colorizer::clrizer_hue" : [ 4.789357154389611 ],
+					"vs_offset+rot::offrot_anglemenu" : [ 3.0 ],
+					"vs_offset+rot::offrot_x_range" : [ 2.0 ],
+					"vs_offset+rot::offrot_y_range" : [ 2.0 ],
+					"vs_offset+rot::offrot_angle" : [ 0.0 ],
+					"vs_offset+rot::offrot_boundmode" : [ 0.0 ],
+					"vs_offset+rot::offrot_x" : [ 0.0 ],
+					"vs_offset+rot::offrot_y" : [ 0.0 ],
+					"vs_offset+rot::offrot_zoom" : [ 1.02 ],
+					"vs_luma_key::luma_invert" : [ 0.0 ],
+					"vs_luma_key::luma_smth" : [ 0.0 ],
+					"vs_luma_key::luma_thrshld" : [ 0.070865212598425 ],
+					"vs_wfg_shapes::shapewfg_freq_range" : [ 0.0 ],
+					"vs_wfg_shapes::shapewfg_fm_range" : [ 0.0 ],
+					"vs_wfg_shapes::shapewfg_dir" : [ 0.0 ],
+					"vs_wfg_shapes::shapewfg_fm" : [ 0.0 ],
+					"vs_wfg_shapes::shapewfg_freq" : [ 6.0 ],
+					"vs_wfg_shapes::shapewfg_polygons" : [ 3.0 ],
+					"vs_wfg_shapes::shapewfg_pw" : [ 49.606299212598373 ],
+					"vs_wfg_shapes::shapewfg_pwm" : [ 0.0 ],
+					"vs_wfg_shapes::shapewfg_shape" : [ 3.0 ],
+					"vs_wfg_shapes::shapewfg_time" : [ 0.0 ],
+					"vs_wfg_shapes::shapewfg_wf" : [ 4.0 ],
+					"vsc_center_ctrl::vs_phase_ctrl" : [ 90, 90 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"vs_op1::op1_op" : [ 0.0 ],
+					"vs_op1::op1_num" : [ 0.0 ],
+					"vs_frame_delay::fd_fdbck" : [ 0.0 ],
+					"vs_frame_delay::fd_mix" : [ 100.0 ],
+					"vs_frame_delay::fd_time" : [ 1.0 ],
+					"vs_frame_delay::fs_playback" : [ 0.0 ],
+					"vs_huemod_2::hm2_range" : [ 1.0 ],
+					"vs_huemod_2::hm2_sat_range" : [ 0.0 ],
+					"vs_huemod_2::hm2_hm" : [ 0.0 ],
+					"vs_huemod_2::hm2_hue" : [ 17.00787401574803 ],
+					"vs_huemod_2::hm2_sat" : [ 1.0 ],
+					"vs_colorizer::clrizer_color" : [ 0.882352941176471, 0.070431722858671, 0.0, 1.0, 0.013303769873304, 1.0, 0.441176470588236 ],
+					"vs_colorizer::clrizer_hue" : [ 4.789357154389611 ],
+					"vs_offset+rot::offrot_anglemenu" : [ 3.0 ],
+					"vs_offset+rot::offrot_x_range" : [ 2.0 ],
+					"vs_offset+rot::offrot_y_range" : [ 2.0 ],
+					"vs_offset+rot::offrot_angle" : [ 0.0 ],
+					"vs_offset+rot::offrot_boundmode" : [ 0.0 ],
+					"vs_offset+rot::offrot_x" : [ 0.0 ],
+					"vs_offset+rot::offrot_y" : [ 0.0 ],
+					"vs_offset+rot::offrot_zoom" : [ 1.02 ],
+					"vs_luma_key::luma_invert" : [ 0.0 ],
+					"vs_luma_key::luma_smth" : [ 0.0 ],
+					"vs_luma_key::luma_thrshld" : [ 0.070865212598425 ],
+					"vs_wfg_shapes::shapewfg_freq_range" : [ 0.0 ],
+					"vs_wfg_shapes::shapewfg_fm_range" : [ 0.0 ],
+					"vs_wfg_shapes::shapewfg_dir" : [ 0.0 ],
+					"vs_wfg_shapes::shapewfg_fm" : [ 0.0 ],
+					"vs_wfg_shapes::shapewfg_freq" : [ 6.0 ],
+					"vs_wfg_shapes::shapewfg_polygons" : [ 3.0 ],
+					"vs_wfg_shapes::shapewfg_pw" : [ 49.606299212598373 ],
+					"vs_wfg_shapes::shapewfg_pwm" : [ 0.0 ],
+					"vs_wfg_shapes::shapewfg_shape" : [ 3.0 ],
+					"vs_wfg_shapes::shapewfg_time" : [ 0.0 ],
+					"vs_wfg_shapes::shapewfg_wf" : [ 4.0 ],
+					"vsc_center_ctrl::vs_phase_ctrl" : [ 114, 48 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

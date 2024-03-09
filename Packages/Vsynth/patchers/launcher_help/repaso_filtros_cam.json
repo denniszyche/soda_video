@@ -1,0 +1,22 @@
+{
+	"pattrstorage" : 	{
+		"name" : "repaso_filtros_cam",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"vs_camera_s::cam_on" : [ 1.0 ],
+					"vs_camera_s::cam_select" : [ 0 ],
+					"vs_filter_lp4x::lpf_freq" : [ 0.177165354330709 ],
+					"vs_filter_spat::spatial_freq" : [ 0.95 ],
+					"vs_filter_spat::spatial_type" : [ 0.0 ],
+					"vs_preview[2]::preview_size" : [ 2.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

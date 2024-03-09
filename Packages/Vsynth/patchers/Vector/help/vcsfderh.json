@@ -1,0 +1,114 @@
+{
+	"pattrstorage" : 	{
+		"name" : "vcsfderh",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"vector_crossfader::alpha" : [ 0.0 ],
+					"vector_crossfader::crossfade" : [ 0.5 ],
+					"vector_crossfader::mode" : [ 0.0 ],
+					"vector_crossfader::refresh" : [ 30.0 ],
+					"vector_noise_generator::speed_gate" : [ 1.0 ],
+					"vector_noise_generator::mode" : [ 1.0 ],
+					"vector_noise_generator::points" : [ 40.0 ],
+					"vector_noise_generator::refresh" : [ 60.0 ],
+					"vector_noise_generator::rota" : [ 1.0 ],
+					"vector_noise_generator::rotb" : [ 1.0 ],
+					"vector_noise_generator::scale" : [ 0.078740157480315 ],
+					"vector_noise_generator::smth" : [ 0.866141732283465 ],
+					"vector_noise_generator::speed" : [ 60.0 ],
+					"vector_noise_generator::threshold" : [ 0.007874015748031 ],
+					"vector_cube_generator::auto_rot_x" : [ 1.0 ],
+					"vector_cube_generator::auto_rot_y" : [ 1.0 ],
+					"vector_cube_generator::auto_rot_z" : [ 0.0 ],
+					"vector_cube_generator::refresh" : [ 240.0 ],
+					"vector_cube_generator::rotx" : [ 0.0 ],
+					"vector_cube_generator::roty" : [ 0.0 ],
+					"vector_cube_generator::rotz" : [ 0.0 ],
+					"vector_cube_generator::scale" : [ 0.65 ],
+					"vector_cube_generator::sm" : [ 0.0 ],
+					"vector_cube_generator::srx" : [ 0.16 ],
+					"vector_cube_generator::sry" : [ 0.23 ],
+					"vector_cube_generator::srz" : [ 0.08 ],
+					"vector_cube_generator::x" : [ 0.0 ],
+					"vector_cube_generator::y" : [ 0.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"vector_crossfader::alpha" : [ 0.0 ],
+					"vector_crossfader::crossfade" : [ 0.5 ],
+					"vector_crossfader::mode" : [ 1.0 ],
+					"vector_crossfader::refresh" : [ 30.0 ],
+					"vector_noise_generator::speed_gate" : [ 1.0 ],
+					"vector_noise_generator::mode" : [ 1.0 ],
+					"vector_noise_generator::points" : [ 40.0 ],
+					"vector_noise_generator::refresh" : [ 60.0 ],
+					"vector_noise_generator::rota" : [ 1.0 ],
+					"vector_noise_generator::rotb" : [ 1.0 ],
+					"vector_noise_generator::scale" : [ 0.0 ],
+					"vector_noise_generator::smth" : [ 0.866141732283465 ],
+					"vector_noise_generator::speed" : [ 60.0 ],
+					"vector_noise_generator::threshold" : [ 0.007874015748031 ],
+					"vector_cube_generator::auto_rot_x" : [ 1.0 ],
+					"vector_cube_generator::auto_rot_y" : [ 1.0 ],
+					"vector_cube_generator::auto_rot_z" : [ 0.0 ],
+					"vector_cube_generator::refresh" : [ 240.0 ],
+					"vector_cube_generator::rotx" : [ 0.0 ],
+					"vector_cube_generator::roty" : [ 0.0 ],
+					"vector_cube_generator::rotz" : [ 0.0 ],
+					"vector_cube_generator::scale" : [ 0.680708661417323 ],
+					"vector_cube_generator::sm" : [ 0.0 ],
+					"vector_cube_generator::srx" : [ 0.16 ],
+					"vector_cube_generator::sry" : [ 0.23 ],
+					"vector_cube_generator::srz" : [ 0.08 ],
+					"vector_cube_generator::x" : [ 0.0 ],
+					"vector_cube_generator::y" : [ 0.0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"vector_crossfader::alpha" : [ 1.0 ],
+					"vector_crossfader::crossfade" : [ 0.5 ],
+					"vector_crossfader::mode" : [ 1.0 ],
+					"vector_crossfader::refresh" : [ 30.0 ],
+					"vector_noise_generator::speed_gate" : [ 1.0 ],
+					"vector_noise_generator::mode" : [ 1.0 ],
+					"vector_noise_generator::points" : [ 40.0 ],
+					"vector_noise_generator::refresh" : [ 60.0 ],
+					"vector_noise_generator::rota" : [ 1.0 ],
+					"vector_noise_generator::rotb" : [ 1.0 ],
+					"vector_noise_generator::scale" : [ 0.173228346456693 ],
+					"vector_noise_generator::smth" : [ 0.866141732283465 ],
+					"vector_noise_generator::speed" : [ 60.0 ],
+					"vector_noise_generator::threshold" : [ 0.007874015748031 ],
+					"vector_cube_generator::auto_rot_x" : [ 1.0 ],
+					"vector_cube_generator::auto_rot_y" : [ 1.0 ],
+					"vector_cube_generator::auto_rot_z" : [ 0.0 ],
+					"vector_cube_generator::refresh" : [ 240.0 ],
+					"vector_cube_generator::rotx" : [ 0.0 ],
+					"vector_cube_generator::roty" : [ 0.0 ],
+					"vector_cube_generator::rotz" : [ 0.0 ],
+					"vector_cube_generator::scale" : [ 0.68 ],
+					"vector_cube_generator::sm" : [ 0.0 ],
+					"vector_cube_generator::srx" : [ 0.16 ],
+					"vector_cube_generator::sry" : [ 0.23 ],
+					"vector_cube_generator::srz" : [ 0.08 ],
+					"vector_cube_generator::x" : [ 0.0 ],
+					"vector_cube_generator::y" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

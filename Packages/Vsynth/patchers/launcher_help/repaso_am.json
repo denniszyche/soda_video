@@ -1,0 +1,225 @@
+{
+	"pattrstorage" : 	{
+		"name" : "repaso_am",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"vs_colorizer::clrizer_color" : [ 1.0, 1.0, 1.0, 1.0, 0.385809, 1.0, 1.0 ],
+					"vs_colorizer::clrizer_hue" : [ 138.891356999999999 ],
+					"vs_vca::vca_am" : [ 0.0 ],
+					"vs_vca::vca_bias" : [ 1.0 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_freq" : [ 120.0 ],
+					"vs_wfg_2::wfg2_pm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 0.0 ],
+					"vs_wfg_2::wfg2_time" : [ 0.0 ],
+					"vs_wfg_2::wfg2_time_range" : [  ],
+					"vs_wfg_2::wfg2_wf" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_freq" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_pm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2[1]::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_sync_lock" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_time" : [ 6.0 ],
+					"vs_wfg_2[1]::wfg2_time_range" : [  ],
+					"vs_wfg_2[1]::wfg2_wf" : [ 0.0 ],
+					"vs_preview::preview_size" : [  ],
+					"vs_preview[1]::preview_size" : [ 0.0 ],
+					"vs_preview[2]::preview_size" : [ 0.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"vs_colorizer::clrizer_color" : [ 1.0, 1.0, 1.0, 1.0, 0.385809, 1.0, 1.0 ],
+					"vs_colorizer::clrizer_hue" : [ 138.891356999999999 ],
+					"vs_vca::vca_am" : [ 1.0 ],
+					"vs_vca::vca_bias" : [ 0.0 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_freq" : [ 120.0 ],
+					"vs_wfg_2::wfg2_pm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 0.0 ],
+					"vs_wfg_2::wfg2_time" : [ 0.0 ],
+					"vs_wfg_2::wfg2_time_range" : [  ],
+					"vs_wfg_2::wfg2_wf" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_freq" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_pm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2[1]::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_sync_lock" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_time" : [ 6.0 ],
+					"vs_wfg_2[1]::wfg2_time_range" : [  ],
+					"vs_wfg_2[1]::wfg2_wf" : [ 0.0 ],
+					"vs_preview::preview_size" : [  ],
+					"vs_preview[1]::preview_size" : [ 0.0 ],
+					"vs_preview[2]::preview_size" : [ 0.0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"vs_colorizer::clrizer_color" : [ 1.0, 1.0, 1.0, 1.0, 0.385809, 1.0, 1.0 ],
+					"vs_colorizer::clrizer_hue" : [ 138.891356999999999 ],
+					"vs_vca::vca_am" : [ 1.0 ],
+					"vs_vca::vca_bias" : [ 0.5 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_freq" : [ 120.0 ],
+					"vs_wfg_2::wfg2_pm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 0.0 ],
+					"vs_wfg_2::wfg2_time" : [ 0.0 ],
+					"vs_wfg_2::wfg2_time_range" : [  ],
+					"vs_wfg_2::wfg2_wf" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_freq" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_pm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2[1]::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_sync_lock" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_time" : [ 6.0 ],
+					"vs_wfg_2[1]::wfg2_time_range" : [  ],
+					"vs_wfg_2[1]::wfg2_wf" : [ 0.0 ],
+					"vs_preview::preview_size" : [  ],
+					"vs_preview[1]::preview_size" : [ 0.0 ],
+					"vs_preview[2]::preview_size" : [ 0.0 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"vs_colorizer::clrizer_color" : [ 1.0, 1.0, 1.0, 1.0, 0.385809, 1.0, 1.0 ],
+					"vs_colorizer::clrizer_hue" : [ 138.891356999999999 ],
+					"vs_vca::vca_am" : [ 1.0 ],
+					"vs_vca::vca_bias" : [ 0.0 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_freq" : [ 157.007873999999987 ],
+					"vs_wfg_2::wfg2_pm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 0.0 ],
+					"vs_wfg_2::wfg2_time" : [ 0.0 ],
+					"vs_wfg_2::wfg2_time_range" : [  ],
+					"vs_wfg_2::wfg2_wf" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_freq" : [ 298.740142999999989 ],
+					"vs_wfg_2[1]::wfg2_pm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2[1]::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_sync_lock" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_time" : [ 3.0 ],
+					"vs_wfg_2[1]::wfg2_time_range" : [  ],
+					"vs_wfg_2[1]::wfg2_wf" : [ 0.0 ],
+					"vs_preview::preview_size" : [  ],
+					"vs_preview[1]::preview_size" : [ 0.0 ],
+					"vs_preview[2]::preview_size" : [ 0.0 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"vs_colorizer::clrizer_color" : [ 1.0, 1.0, 1.0, 1.0, 0.385809, 1.0, 1.0 ],
+					"vs_colorizer::clrizer_hue" : [ 138.891356999999999 ],
+					"vs_vca::vca_am" : [ 1.0 ],
+					"vs_vca::vca_bias" : [ 0.0 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_freq" : [ 203.352966000000009 ],
+					"vs_wfg_2::wfg2_pm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 0.0 ],
+					"vs_wfg_2::wfg2_time" : [ 0.0 ],
+					"vs_wfg_2::wfg2_time_range" : [  ],
+					"vs_wfg_2::wfg2_wf" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_freq" : [ 203.352966000000009 ],
+					"vs_wfg_2[1]::wfg2_pm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2[1]::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_sync_lock" : [ 2.0 ],
+					"vs_wfg_2[1]::wfg2_time" : [ 3.0 ],
+					"vs_wfg_2[1]::wfg2_time_range" : [  ],
+					"vs_wfg_2[1]::wfg2_wf" : [ 0.0 ],
+					"vs_preview::preview_size" : [  ],
+					"vs_preview[1]::preview_size" : [ 0.0 ],
+					"vs_preview[2]::preview_size" : [ 0.0 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"data" : 				{
+					"vs_colorizer::clrizer_color" : [ 1.0, 1.0, 1.0, 1.0, 0.545454575, 1.0, 1.0 ],
+					"vs_colorizer::clrizer_hue" : [ 196.363646999999986 ],
+					"vs_vca::vca_am" : [ 1.0 ],
+					"vs_vca::vca_bias" : [ 0.0 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_freq" : [ 307.08660900000001 ],
+					"vs_wfg_2::wfg2_pm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pw" : [ 5.0 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 0.0 ],
+					"vs_wfg_2::wfg2_time" : [ 0.0 ],
+					"vs_wfg_2::wfg2_time_range" : [ 0 ],
+					"vs_wfg_2::wfg2_wf" : [ 4.0 ],
+					"vs_wfg_2[1]::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_freq" : [ 307.08660900000001 ],
+					"vs_wfg_2[1]::wfg2_pm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_pw" : [ 95.0 ],
+					"vs_wfg_2[1]::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_sync_lock" : [ 2.0 ],
+					"vs_wfg_2[1]::wfg2_time" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_time_range" : [ 0 ],
+					"vs_wfg_2[1]::wfg2_wf" : [ 4.0 ],
+					"vs_preview::preview_size" : [ 1.0 ],
+					"vs_preview[1]::preview_size" : [ 0.0 ],
+					"vs_preview[2]::preview_size" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

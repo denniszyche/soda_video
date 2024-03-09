@@ -1,0 +1,111 @@
+{
+	"pattrstorage" : 	{
+		"name" : "repaso_edges",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"gswitch" : [ 0 ],
+					"gswitch[1]" : [ 0 ],
+					"vs_wfg_2::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_freq" : [ 120.0 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_sync_dir" : [ 0 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 0.0 ],
+					"vs_wfg_2::wfg2_time" : [ 6.0 ],
+					"vs_wfg_2::wfg2_wf" : [ 4.0 ],
+					"vs_preview::preview_size" : [ 2.0 ],
+					"vs_edges::edges_freq" : [ 0.24 ],
+					"vs_edges::edges_smth" : [ 0.0 ],
+					"vs_edges::edges_thrshld" : [ 0.51 ],
+					"vs_preview[1]::preview_size" : [ 0.0 ],
+					"vs_comparator[2]::comparator_rgb" : [ 0.0 ],
+					"vs_comparator[2]::comparator_smth" : [ 0.0 ],
+					"vs_comparator[2]::comparator_thrshld" : [ 0.5 ],
+					"vs_filter_hp4x[1]::hpf_freq" : [ 0.24 ],
+					"vs_camera_s[1]::cam_on" : [ 1.0 ],
+					"vs_camera_s[1]::cam_select" : [ 0 ],
+					"vs_preview[3]::preview_size" : [ 2.0 ],
+					"vs_edges[1]::edges_freq" : [ 0.24 ],
+					"vs_edges[1]::edges_smth" : [ 0.0 ],
+					"vs_edges[1]::edges_thrshld" : [ 0.51 ],
+					"patcher::vs_op2::op2_op" : [ 2.0 ],
+					"patcher::vs_op1::op1_num" : [ 0.5 ],
+					"patcher::vs_op1::op1_op" : [ 6.0 ],
+					"patcher::vs_frame_delay::fd_fdbck" : [ 0.0 ],
+					"patcher::vs_frame_delay::fd_mix" : [ 50.0 ],
+					"patcher::vs_frame_delay::fd_time" : [ 10.0 ],
+					"patcher::vs_op2[1]::op2_op" : [ 1.0 ],
+					"patcher::vs_op1[1]::op1_num" : [ 1.0 ],
+					"patcher::vs_op1[1]::op1_op" : [ 5.0 ],
+					"patcher::vs_filter_temp::temp_freq" : [ 0.5 ],
+					"patcher::vs_comparator[1]::comparator_rgb" : [ 0.0 ],
+					"patcher::vs_comparator[1]::comparator_smth" : [ 0.0 ],
+					"patcher::vs_comparator[1]::comparator_thrshld" : [ 0.55 ],
+					"patcher::vs_comparator[3]::comparator_rgb" : [ 0.0 ],
+					"patcher::vs_comparator[3]::comparator_smth" : [ 0.0 ],
+					"patcher::vs_comparator[3]::comparator_thrshld" : [ 0.55 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"gswitch" : [ 1 ],
+					"gswitch[1]" : [ 1 ],
+					"vs_wfg_2::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_freq" : [ 120.0 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_sync_dir" : [ 0 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 0.0 ],
+					"vs_wfg_2::wfg2_time" : [ 6.0 ],
+					"vs_wfg_2::wfg2_wf" : [ 4.0 ],
+					"vs_preview::preview_size" : [ 2.0 ],
+					"vs_edges::edges_freq" : [ 0.228189 ],
+					"vs_edges::edges_smth" : [ 0.0 ],
+					"vs_edges::edges_thrshld" : [ 0.513937 ],
+					"vs_preview[1]::preview_size" : [ 0.0 ],
+					"vs_comparator[2]::comparator_rgb" : [ 0.0 ],
+					"vs_comparator[2]::comparator_smth" : [ 0.0 ],
+					"vs_comparator[2]::comparator_thrshld" : [ 0.5 ],
+					"vs_filter_hp4x[1]::hpf_freq" : [ 0.24 ],
+					"vs_camera_s[1]::cam_on" : [ 1.0 ],
+					"vs_camera_s[1]::cam_select" : [ 0 ],
+					"vs_preview[3]::preview_size" : [ 2.0 ],
+					"vs_edges[1]::edges_freq" : [ 0.226220472440945 ],
+					"vs_edges[1]::edges_smth" : [ 0.0 ],
+					"vs_edges[1]::edges_thrshld" : [ 0.51 ],
+					"patcher::vs_op2::op2_op" : [ 2.0 ],
+					"patcher::vs_op1::op1_num" : [ 0.5 ],
+					"patcher::vs_op1::op1_op" : [ 6.0 ],
+					"patcher::vs_frame_delay::fd_fdbck" : [ 0.0 ],
+					"patcher::vs_frame_delay::fd_mix" : [ 50.0 ],
+					"patcher::vs_frame_delay::fd_time" : [ 10.0 ],
+					"patcher::vs_op2[1]::op2_op" : [ 1.0 ],
+					"patcher::vs_op1[1]::op1_num" : [ 1.0 ],
+					"patcher::vs_op1[1]::op1_op" : [ 5.0 ],
+					"patcher::vs_filter_temp::temp_freq" : [ 0.5 ],
+					"patcher::vs_comparator[1]::comparator_rgb" : [ 0.0 ],
+					"patcher::vs_comparator[1]::comparator_smth" : [ 0.0 ],
+					"patcher::vs_comparator[1]::comparator_thrshld" : [ 0.55 ],
+					"patcher::vs_comparator[3]::comparator_rgb" : [ 0.0 ],
+					"patcher::vs_comparator[3]::comparator_smth" : [ 0.0 ],
+					"patcher::vs_comparator[3]::comparator_thrshld" : [ 0.55 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

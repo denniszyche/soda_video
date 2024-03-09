@@ -1,0 +1,30 @@
+{
+	"pattrstorage" : 	{
+		"name" : "repaso_camfm",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"vs_camera_s::cam_on" : [ 1.0 ],
+					"vs_camera_s::cam_select" : [ 0 ],
+					"vs_wfg_2::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_freq" : [ 154.488188976378439 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm" : [ 1.133858267716536 ],
+					"vs_wfg_2::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_sync_dir" : [ 0 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 1.0 ],
+					"vs_wfg_2::wfg2_time" : [ 6.0 ],
+					"vs_wfg_2::wfg2_wf" : [ 0.0 ],
+					"vs_preview::preview_size" : [ 2.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

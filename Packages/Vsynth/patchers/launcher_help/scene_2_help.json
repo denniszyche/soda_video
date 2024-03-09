@@ -1,0 +1,113 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Scene1",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"vs_cos_palettes::vs_cp_menu" : [ 0.0 ],
+					"vs_cos_palettes::vs_cp_mode" : [ 1.0 ],
+					"vs_op2::op2_op" : [ 1.0 ],
+					"vs_edges::edges_freq" : [ 0.220472440944882 ],
+					"vs_edges::edges_mode" : [ 0.0 ],
+					"vs_edges::edges_smth" : [ 0.0 ],
+					"vs_edges::edges_thrshld" : [ 0.482441047244095 ],
+					"vs_filter_lp2x::lpf_freq" : [ 0.192913 ],
+					"vs_offset+rot::offrot_anglemenu" : [ 0.0 ],
+					"vs_offset+rot::offrot_x_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_y_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_angle" : [ 3.14 ],
+					"vs_offset+rot::offrot_boundmode" : [ 0.0 ],
+					"vs_offset+rot::offrot_x" : [ 0.0 ],
+					"vs_offset+rot::offrot_y" : [ 0.0 ],
+					"vs_offset+rot::offrot_zoom" : [ 1.669291 ],
+					"vs_wfg_rad::radwfg_freq_60mult" : [ 1.0 ],
+					"vs_wfg_rad::radwfg_freq_range" : [ 0.0 ],
+					"vs_wfg_rad::radwfg_fm_range" : [ 0.0 ],
+					"vs_wfg_rad::radwfg_fm" : [ 0.5 ],
+					"vs_wfg_rad::radwfg_freq" : [ 132.283464566929013 ],
+					"vs_wfg_rad::radwfg_pw" : [ 50.0 ],
+					"vs_wfg_rad::radwfg_pwm" : [ 0.0 ],
+					"vs_wfg_rad::radwfg_shape" : [ 1.0 ],
+					"vs_wfg_rad::radwfg_time" : [ 1.0 ],
+					"vs_wfg_rad::radwfg_time_dir" : [ 0.0 ],
+					"vs_wfg_rad::radwfg_wf" : [ 2.0 ],
+					"vs_wfg_rad::umenu" : [ 7 ],
+					"vs_pixelator::pixelador_dim" : [ 7.0 ],
+					"vs_pixelator::pixelator_interp" : [ 1.0 ],
+					"vs_pixelator::toggle" : [ 1 ],
+					"vs_wfg_rad[1]::radwfg_freq_60mult" : [ 1.0 ],
+					"vs_wfg_rad[1]::radwfg_freq_range" : [ 0.0 ],
+					"vs_wfg_rad[1]::radwfg_fm_range" : [ 0.0 ],
+					"vs_wfg_rad[1]::radwfg_fm" : [ 0.5 ],
+					"vs_wfg_rad[1]::radwfg_freq" : [ 284.881889763779498 ],
+					"vs_wfg_rad[1]::radwfg_pw" : [ 50.0 ],
+					"vs_wfg_rad[1]::radwfg_pwm" : [ 0.0 ],
+					"vs_wfg_rad[1]::radwfg_shape" : [ 0.0 ],
+					"vs_wfg_rad[1]::radwfg_time" : [ 1.0 ],
+					"vs_wfg_rad[1]::radwfg_time_dir" : [ 0.0 ],
+					"vs_wfg_rad[1]::radwfg_wf" : [ 1.0 ],
+					"vs_wfg_rad[1]::umenu" : [ 1 ],
+					"vs_op2[1]::op2_op" : [ 3.0 ],
+					"vs_op2[2]::op2_op" : [ 1.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"vs_cos_palettes::vs_cp_menu" : [ 0.0 ],
+					"vs_cos_palettes::vs_cp_mode" : [ 1.0 ],
+					"vs_op2::op2_op" : [ 1.0 ],
+					"vs_edges::edges_freq" : [ 0.220472440944882 ],
+					"vs_edges::edges_mode" : [ 0.0 ],
+					"vs_edges::edges_smth" : [ 0.0 ],
+					"vs_edges::edges_thrshld" : [ 0.52496077480315 ],
+					"vs_filter_lp2x::lpf_freq" : [ 0.192913 ],
+					"vs_offset+rot::offrot_anglemenu" : [ 0.0 ],
+					"vs_offset+rot::offrot_x_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_y_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_angle" : [ 3.14 ],
+					"vs_offset+rot::offrot_boundmode" : [ 0.0 ],
+					"vs_offset+rot::offrot_x" : [ 0.0 ],
+					"vs_offset+rot::offrot_y" : [ 0.0 ],
+					"vs_offset+rot::offrot_zoom" : [ 1.669291 ],
+					"vs_wfg_rad::radwfg_freq_60mult" : [ 1.0 ],
+					"vs_wfg_rad::radwfg_freq_range" : [ 0.0 ],
+					"vs_wfg_rad::radwfg_fm_range" : [ 0.0 ],
+					"vs_wfg_rad::radwfg_fm" : [ 0.5 ],
+					"vs_wfg_rad::radwfg_freq" : [ 132.283464566929013 ],
+					"vs_wfg_rad::radwfg_pw" : [ 50.0 ],
+					"vs_wfg_rad::radwfg_pwm" : [ 0.0 ],
+					"vs_wfg_rad::radwfg_shape" : [ 1.0 ],
+					"vs_wfg_rad::radwfg_time" : [ 1.0 ],
+					"vs_wfg_rad::radwfg_time_dir" : [ 0.0 ],
+					"vs_wfg_rad::radwfg_wf" : [ 2.0 ],
+					"vs_wfg_rad::umenu" : [ 7 ],
+					"vs_pixelator::pixelador_dim" : [ 7.0 ],
+					"vs_pixelator::pixelator_interp" : [ 1.0 ],
+					"vs_pixelator::toggle" : [ 1 ],
+					"vs_wfg_rad[1]::radwfg_freq_60mult" : [ 1.0 ],
+					"vs_wfg_rad[1]::radwfg_freq_range" : [ 0.0 ],
+					"vs_wfg_rad[1]::radwfg_fm_range" : [ 0.0 ],
+					"vs_wfg_rad[1]::radwfg_fm" : [ 0.5 ],
+					"vs_wfg_rad[1]::radwfg_freq" : [ 284.881889763779498 ],
+					"vs_wfg_rad[1]::radwfg_pw" : [ 50.0 ],
+					"vs_wfg_rad[1]::radwfg_pwm" : [ 0.0 ],
+					"vs_wfg_rad[1]::radwfg_shape" : [ 0.0 ],
+					"vs_wfg_rad[1]::radwfg_time" : [ 1.0 ],
+					"vs_wfg_rad[1]::radwfg_time_dir" : [ 0.0 ],
+					"vs_wfg_rad[1]::radwfg_wf" : [ 1.0 ],
+					"vs_wfg_rad[1]::umenu" : [ 1 ],
+					"vs_op2[1]::op2_op" : [ 3.0 ],
+					"vs_op2[2]::op2_op" : [ 1.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

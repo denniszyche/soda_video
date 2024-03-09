@@ -1,0 +1,159 @@
+{
+	"pattrstorage" : 	{
+		"name" : "pmfeed2",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"vs_offset+rot::offrot_angle" : [ 0.222519685039372 ],
+					"vs_offset+rot::offrot_anglemenu" : [ 0.0 ],
+					"vs_offset+rot::offrot_boundmode" : [ 0.0 ],
+					"vs_offset+rot::offrot_x" : [ 0.0 ],
+					"vs_offset+rot::offrot_x_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_y" : [ 0.003149606299213 ],
+					"vs_offset+rot::offrot_y_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_zoom" : [ 1.0 ],
+					"vs_filter_temp::temp_freq" : [ 0.535433070866141 ],
+					"vs_filter_lp2x::lpf_freq" : [ 0.21259842519685 ],
+					"vs_filter_hp4x::hpf_freq" : [ 0.112204724409449 ],
+					"vs_wfg_2::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_freq" : [ 67.874015748031496 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm" : [ 2.625984251968501 ],
+					"vs_wfg_2::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_sync_dir" : [ 0 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 1.0 ],
+					"vs_wfg_2::wfg2_time" : [ 1.0 ],
+					"vs_wfg_2::wfg2_wf" : [ 0.0 ],
+					"vs_preview::preview_size" : [ 2.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"vs_offset+rot::offrot_angle" : [ 0.07417322834646 ],
+					"vs_offset+rot::offrot_anglemenu" : [ 0.0 ],
+					"vs_offset+rot::offrot_boundmode" : [ 3.0 ],
+					"vs_offset+rot::offrot_x" : [ 0.0 ],
+					"vs_offset+rot::offrot_x_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_y" : [ 0.003149606299213 ],
+					"vs_offset+rot::offrot_y_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_zoom" : [ 1.01 ],
+					"vs_filter_temp::temp_freq" : [ 0.535433070866141 ],
+					"vs_filter_lp2x::lpf_freq" : [ 0.21259842519685 ],
+					"vs_filter_hp4x::hpf_freq" : [ 0.112204724409449 ],
+					"vs_wfg_2::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_freq" : [ 67.874015748031496 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm" : [ 2.625984251968501 ],
+					"vs_wfg_2::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_sync_dir" : [ 0 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 1.0 ],
+					"vs_wfg_2::wfg2_time" : [ 1.0 ],
+					"vs_wfg_2::wfg2_wf" : [ 0.0 ],
+					"vs_preview::preview_size" : [ 2.0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"vs_offset+rot::offrot_angle" : [ 0.0 ],
+					"vs_offset+rot::offrot_anglemenu" : [ 0.0 ],
+					"vs_offset+rot::offrot_boundmode" : [ 3.0 ],
+					"vs_offset+rot::offrot_x" : [ 0.0 ],
+					"vs_offset+rot::offrot_x_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_y" : [ 0.007874015748031 ],
+					"vs_offset+rot::offrot_y_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_zoom" : [ 1.0 ],
+					"vs_filter_temp::temp_freq" : [ 0.700787401574804 ],
+					"vs_filter_lp2x::lpf_freq" : [ 0.196850393700787 ],
+					"vs_filter_hp4x::hpf_freq" : [ 0.114173228346457 ],
+					"vs_wfg_2::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_freq" : [ 67.874015748031496 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm" : [ 1.866141732283466 ],
+					"vs_wfg_2::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_sync_dir" : [ 0 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 1.0 ],
+					"vs_wfg_2::wfg2_time" : [ 1.0 ],
+					"vs_wfg_2::wfg2_wf" : [ 4.0 ],
+					"vs_preview::preview_size" : [ 2.0 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"vs_offset+rot::offrot_angle" : [ 0.0 ],
+					"vs_offset+rot::offrot_anglemenu" : [ 0.0 ],
+					"vs_offset+rot::offrot_boundmode" : [ 3.0 ],
+					"vs_offset+rot::offrot_x" : [ 0.0 ],
+					"vs_offset+rot::offrot_x_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_y" : [ 0.007874015748031 ],
+					"vs_offset+rot::offrot_y_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_zoom" : [ 1.0 ],
+					"vs_filter_temp::temp_freq" : [ 0.700787401574804 ],
+					"vs_filter_lp2x::lpf_freq" : [ 0.196850393700787 ],
+					"vs_filter_hp4x::hpf_freq" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_freq" : [ 67.874015748031496 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm" : [ 1.866141732283466 ],
+					"vs_wfg_2::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_sync_dir" : [ 0 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 1.0 ],
+					"vs_wfg_2::wfg2_time" : [ 1.0 ],
+					"vs_wfg_2::wfg2_wf" : [ 4.0 ],
+					"vs_preview::preview_size" : [ 2.0 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"vs_offset+rot::offrot_angle" : [ 0.469763779527564 ],
+					"vs_offset+rot::offrot_anglemenu" : [ 0.0 ],
+					"vs_offset+rot::offrot_boundmode" : [ 3.0 ],
+					"vs_offset+rot::offrot_x" : [ 0.0 ],
+					"vs_offset+rot::offrot_x_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_y" : [ 0.0 ],
+					"vs_offset+rot::offrot_y_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_zoom" : [ 1.0 ],
+					"vs_filter_temp::temp_freq" : [ 0.0 ],
+					"vs_filter_lp2x::lpf_freq" : [ 0.196850393700787 ],
+					"vs_filter_hp4x::hpf_freq" : [ 0.039370078740158 ],
+					"vs_wfg_2::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_freq" : [ 39.370078740157481 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm" : [ -1.724409448818897 ],
+					"vs_wfg_2::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_sync_dir" : [ 0 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 1.0 ],
+					"vs_wfg_2::wfg2_time" : [ 1.0 ],
+					"vs_wfg_2::wfg2_wf" : [ 4.0 ],
+					"vs_preview::preview_size" : [ 2.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

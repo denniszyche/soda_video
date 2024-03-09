@@ -1,0 +1,108 @@
+{
+	"pattrstorage" : 	{
+		"name" : "ejemplo_noise",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"vs_preview::preview_size" : [ 2.0 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm_range" : [  ],
+					"vs_wfg_2::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_freq" : [ 60.0 ],
+					"vs_wfg_2::wfg2_pm" : [ 0.5 ],
+					"vs_wfg_2::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 0.0 ],
+					"vs_wfg_2::wfg2_time" : [ 0.0 ],
+					"vs_wfg_2::wfg2_time_range" : [  ],
+					"vs_wfg_2::wfg2_wf" : [ 5.0 ],
+					"vs_wfg_2[1]::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_pm_range" : [  ],
+					"vs_wfg_2[1]::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_freq" : [ 131.0 ],
+					"vs_wfg_2[1]::wfg2_pm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2[1]::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_sync_lock" : [ 2.0 ],
+					"vs_wfg_2[1]::wfg2_time" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_time_range" : [  ],
+					"vs_wfg_2[1]::wfg2_wf" : [ 5.0 ],
+					"vs_preview[1]::preview_size" : [ 2.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"vs_preview::preview_size" : [ 2.0 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm_range" : [  ],
+					"vs_wfg_2::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_freq" : [ 7.874015748031496 ],
+					"vs_wfg_2::wfg2_pm" : [ -0.114173228346454 ],
+					"vs_wfg_2::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 2.0 ],
+					"vs_wfg_2::wfg2_time" : [ 0.0 ],
+					"vs_wfg_2::wfg2_time_range" : [ 0 ],
+					"vs_wfg_2::wfg2_wf" : [ 2.0 ],
+					"vs_wfg_2[1]::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_pm_range" : [  ],
+					"vs_wfg_2[1]::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_freq" : [ 456.692913385827069 ],
+					"vs_wfg_2[1]::wfg2_pm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2[1]::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_sync_lock" : [ 1.0 ],
+					"vs_wfg_2[1]::wfg2_time" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_time_range" : [ 0 ],
+					"vs_wfg_2[1]::wfg2_wf" : [ 5.0 ],
+					"vs_preview[1]::preview_size" : [ 2.0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"vs_preview::preview_size" : [ 2.0 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_freq" : [ 47.244094488188978 ],
+					"vs_wfg_2::wfg2_pm" : [ 0.5 ],
+					"vs_wfg_2::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 0.0 ],
+					"vs_wfg_2::wfg2_time" : [ 0.0 ],
+					"vs_wfg_2::wfg2_time_range" : [  ],
+					"vs_wfg_2::wfg2_wf" : [ 5.0 ],
+					"vs_wfg_2[1]::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_pm_range" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_freq" : [ 20.763779527558999 ],
+					"vs_wfg_2[1]::wfg2_pm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2[1]::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_sync_lock" : [ 2.0 ],
+					"vs_wfg_2[1]::wfg2_time" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_time_range" : [  ],
+					"vs_wfg_2[1]::wfg2_wf" : [ 5.0 ],
+					"vs_preview[1]::preview_size" : [ 2.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

@@ -1,0 +1,173 @@
+{
+	"pattrstorage" : 	{
+		"name" : "infinity_cube.json",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"vector_cube_generator::auto_rot_x" : [ 1.0 ],
+					"vector_cube_generator::auto_rot_y" : [ 1.0 ],
+					"vector_cube_generator::auto_rot_z" : [ 0.0 ],
+					"vector_cube_generator::refresh" : [ 240.0 ],
+					"vector_cube_generator::rotx" : [ 0.0 ],
+					"vector_cube_generator::roty" : [ 0.0 ],
+					"vector_cube_generator::rotz" : [ 0.0 ],
+					"vector_cube_generator::scale" : [ 0.7 ],
+					"vector_cube_generator::sm" : [ 0.0 ],
+					"vector_cube_generator::srx" : [ 0.16 ],
+					"vector_cube_generator::sry" : [ 0.23 ],
+					"vector_cube_generator::srz" : [ 0.08 ],
+					"vector_cube_generator::x" : [ 0.0 ],
+					"vector_cube_generator::y" : [ 0.0 ],
+					"vector_crossfader::alpha" : [ 0.0 ],
+					"vector_crossfader::crossfade" : [ 0.5 ],
+					"vector_crossfader::mode" : [ 1.0 ],
+					"vector_crossfader::refresh" : [ 30.0 ],
+					"vector_noise_generator::speed_gate" : [ 1.0 ],
+					"vector_noise_generator::mode" : [ 1.0 ],
+					"vector_noise_generator::points" : [ 40.0 ],
+					"vector_noise_generator::refresh" : [ 60.0 ],
+					"vector_noise_generator::rota" : [ 1.0 ],
+					"vector_noise_generator::rotb" : [ 1.0 ],
+					"vector_noise_generator::scale" : [ 0.0 ],
+					"vector_noise_generator::smth" : [ 0.937007874015747 ],
+					"vector_noise_generator::speed" : [ 111.023622047244061 ],
+					"vector_noise_generator::threshold" : [ 0.007874015748031 ],
+					"vs_render::u004004652" : [ 0.0 ],
+					"vector_3ch_out::brightness" : [ 1.0 ],
+					"vector_3ch_out::brightness_level" : [ 1.0 ],
+					"vector_translation_scale::scale" : [ 0.5 ],
+					"vector_translation_scale::x" : [ 0.0 ],
+					"vector_translation_scale::y" : [ 0.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"vector_cube_generator::auto_rot_x" : [ 1.0 ],
+					"vector_cube_generator::auto_rot_y" : [ 1.0 ],
+					"vector_cube_generator::auto_rot_z" : [ 0.0 ],
+					"vector_cube_generator::refresh" : [ 240.0 ],
+					"vector_cube_generator::rotx" : [ 0.0 ],
+					"vector_cube_generator::roty" : [ 0.0 ],
+					"vector_cube_generator::rotz" : [ 0.0 ],
+					"vector_cube_generator::scale" : [ 0.7 ],
+					"vector_cube_generator::sm" : [ 0.0 ],
+					"vector_cube_generator::srx" : [ 0.16 ],
+					"vector_cube_generator::sry" : [ 0.23 ],
+					"vector_cube_generator::srz" : [ 0.08 ],
+					"vector_cube_generator::x" : [ 0.0 ],
+					"vector_cube_generator::y" : [ 0.0 ],
+					"vector_crossfader::alpha" : [ 0.0 ],
+					"vector_crossfader::crossfade" : [ 0.5 ],
+					"vector_crossfader::mode" : [ 1.0 ],
+					"vector_crossfader::refresh" : [ 30.0 ],
+					"vector_noise_generator::speed_gate" : [ 1.0 ],
+					"vector_noise_generator::mode" : [ 1.0 ],
+					"vector_noise_generator::points" : [ 40.0 ],
+					"vector_noise_generator::refresh" : [ 60.0 ],
+					"vector_noise_generator::rota" : [ 1.0 ],
+					"vector_noise_generator::rotb" : [ 1.0 ],
+					"vector_noise_generator::scale" : [ 0.0 ],
+					"vector_noise_generator::smth" : [ 0.055118110236221 ],
+					"vector_noise_generator::speed" : [ 132.283464566929155 ],
+					"vector_noise_generator::threshold" : [ 0.0 ],
+					"vs_render::u004004652" : [ 0.0 ],
+					"vector_3ch_out::brightness" : [ 1.0 ],
+					"vector_3ch_out::brightness_level" : [ 1.0 ],
+					"vector_translation_scale::scale" : [ 0.5 ],
+					"vector_translation_scale::x" : [ 0.0 ],
+					"vector_translation_scale::y" : [ 0.0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"vector_cube_generator::auto_rot_x" : [ 1.0 ],
+					"vector_cube_generator::auto_rot_y" : [ 1.0 ],
+					"vector_cube_generator::auto_rot_z" : [ 0.0 ],
+					"vector_cube_generator::refresh" : [ 240.0 ],
+					"vector_cube_generator::rotx" : [ 0.0 ],
+					"vector_cube_generator::roty" : [ 0.0 ],
+					"vector_cube_generator::rotz" : [ 0.0 ],
+					"vector_cube_generator::scale" : [ 0.204724409448819 ],
+					"vector_cube_generator::sm" : [ 0.0 ],
+					"vector_cube_generator::srx" : [ 0.16 ],
+					"vector_cube_generator::sry" : [ 0.23 ],
+					"vector_cube_generator::srz" : [ 0.08 ],
+					"vector_cube_generator::x" : [ 0.0 ],
+					"vector_cube_generator::y" : [ 0.0 ],
+					"vector_crossfader::alpha" : [ 0.0 ],
+					"vector_crossfader::crossfade" : [ 0.5 ],
+					"vector_crossfader::mode" : [ 1.0 ],
+					"vector_crossfader::refresh" : [ 30.0 ],
+					"vector_noise_generator::speed_gate" : [ 0.0 ],
+					"vector_noise_generator::mode" : [ 1.0 ],
+					"vector_noise_generator::points" : [ 40.0 ],
+					"vector_noise_generator::refresh" : [ 60.0 ],
+					"vector_noise_generator::rota" : [ 1.0 ],
+					"vector_noise_generator::rotb" : [ 1.0 ],
+					"vector_noise_generator::scale" : [ 0.204724409448819 ],
+					"vector_noise_generator::smth" : [ 0.921259842519685 ],
+					"vector_noise_generator::speed" : [ 60.0 ],
+					"vector_noise_generator::threshold" : [ 0.0 ],
+					"vs_render::u004004652" : [ 0.0 ],
+					"vector_3ch_out::brightness" : [ 1.0 ],
+					"vector_3ch_out::brightness_level" : [ 1.0 ],
+					"vector_translation_scale::scale" : [ 0.708661417322834 ],
+					"vector_translation_scale::x" : [ 0.0 ],
+					"vector_translation_scale::y" : [ 0.0 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"vector_cube_generator::auto_rot_x" : [ 1.0 ],
+					"vector_cube_generator::auto_rot_y" : [ 1.0 ],
+					"vector_cube_generator::auto_rot_z" : [ 0.0 ],
+					"vector_cube_generator::refresh" : [ 240.0 ],
+					"vector_cube_generator::rotx" : [ 0.0 ],
+					"vector_cube_generator::roty" : [ 0.0 ],
+					"vector_cube_generator::rotz" : [ 0.0 ],
+					"vector_cube_generator::scale" : [ 0.905511811023622 ],
+					"vector_cube_generator::sm" : [ 0.0 ],
+					"vector_cube_generator::srx" : [ 0.16 ],
+					"vector_cube_generator::sry" : [ 0.23 ],
+					"vector_cube_generator::srz" : [ 0.08 ],
+					"vector_cube_generator::x" : [ 0.0 ],
+					"vector_cube_generator::y" : [ 0.0 ],
+					"vector_crossfader::alpha" : [ 0.0 ],
+					"vector_crossfader::crossfade" : [ 0.5 ],
+					"vector_crossfader::mode" : [ 1.0 ],
+					"vector_crossfader::refresh" : [ 30.0 ],
+					"vector_noise_generator::speed_gate" : [ 0.0 ],
+					"vector_noise_generator::mode" : [ 1.0 ],
+					"vector_noise_generator::points" : [ 100.0 ],
+					"vector_noise_generator::refresh" : [ 60.0 ],
+					"vector_noise_generator::rota" : [ 1.0 ],
+					"vector_noise_generator::rotb" : [ 1.0 ],
+					"vector_noise_generator::scale" : [ 0.0 ],
+					"vector_noise_generator::smth" : [ 0.94488188976378 ],
+					"vector_noise_generator::speed" : [ 163.937007874015677 ],
+					"vector_noise_generator::threshold" : [ 0.0 ],
+					"vs_render::u004004652" : [ 0.0 ],
+					"vector_3ch_out::brightness" : [ 1.0 ],
+					"vector_3ch_out::brightness_level" : [ 1.0 ],
+					"vector_translation_scale::scale" : [ 0.708661417322834 ],
+					"vector_translation_scale::x" : [ 0.0 ],
+					"vector_translation_scale::y" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

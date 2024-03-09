@@ -1,0 +1,47 @@
+{
+	"pattrstorage" : 	{
+		"name" : "fingerfeedback1",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"vs_op2::op2_op" : [ 7.0 ],
+					"vs_filter_temp::temp_freq" : [ 0.5 ],
+					"vs_filter_lp4x::lpf_freq" : [ 0.212598 ],
+					"vs_filter_hp4x::hpf_freq" : [ 0.14748 ],
+					"vs_offset+rot::offrot_anglemenu" : [ 0.0 ],
+					"vs_offset+rot::offrot_x_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_y_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_angle" : [ -0.15 ],
+					"vs_offset+rot::offrot_boundmode" : [ 2.0 ],
+					"vs_offset+rot::offrot_x" : [ 0.001 ],
+					"vs_offset+rot::offrot_y" : [ 0.0 ],
+					"vs_offset+rot::offrot_zoom" : [ 1.0 ],
+					"vsc_center_ctrl::vs_phase_ctrl" : [ 54, 75 ],
+					"vs_wfg_rad::radwfg_freq_60mult" : [ 0.0 ],
+					"vs_wfg_rad::radwfg_freq_range" : [ 0.0 ],
+					"vs_wfg_rad::radwfg_fm_range" : [ 0.0 ],
+					"vs_wfg_rad::radwfg_fm" : [ 0.0 ],
+					"vs_wfg_rad::radwfg_freq" : [ 33.496062992125978 ],
+					"vs_wfg_rad::radwfg_pw" : [ 96.062992125984266 ],
+					"vs_wfg_rad::radwfg_pwm" : [ 0.0 ],
+					"vs_wfg_rad::radwfg_shape" : [ 0.0 ],
+					"vs_wfg_rad::radwfg_time" : [ 0.0 ],
+					"vs_wfg_rad::radwfg_time_dir" : [ 0.0 ],
+					"vs_wfg_rad::radwfg_wf" : [ 2.0 ],
+					"vs_wfg_rad::umenu" : [ 2 ],
+					"vs_comparator::comparator_rgb" : [ 0.0 ],
+					"vs_comparator::comparator_smth" : [ 0.007874015748031 ],
+					"vs_comparator::comparator_thrshld" : [ 0.008660425984252 ],
+					"vs_op1::op1_op" : [ 2.0 ],
+					"vs_op1::op1_num" : [ 0.472440944881891 ],
+					"vs_clr_solid::solid_color" : [ 1.0, 1.0, 1.0, 1.0, 0.179775280898876, 1.0, 1.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

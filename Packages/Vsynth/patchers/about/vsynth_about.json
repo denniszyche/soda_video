@@ -1,0 +1,164 @@
+{
+	"pattrstorage" : 	{
+		"name" : "vsynth_about",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"vs_offset+rot::offrot_anglemenu" : [ 0.0 ],
+					"vs_offset+rot::offrot_x_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_y_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_boundmode" : [ 0.0 ],
+					"vs_offset+rot::a_lock" : [ 0.0 ],
+					"vs_offset+rot::offrot_angle" : [ 0.247244094488189 ],
+					"vs_offset+rot::offrot_x" : [ -0.002362204724409 ],
+					"vs_offset+rot::offrot_y" : [ 0.00259842519685 ],
+					"vs_offset+rot::offrot_zoom" : [ 0.984251968503937 ],
+					"vs_filter_lp4x::lpf_freq" : [ 0.25 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm" : [ 0.415748031496065 ],
+					"vs_wfg_2::wfg2_freq" : [ 88.677165354330782 ],
+					"vs_wfg_2::wfg2_phase" : [ 0.0 ],
+					"vs_wfg_2::wfg2_phase_time_switch" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pw" : [ 37.40283489763781 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 1.0 ],
+					"vs_wfg_2::wfg2_time" : [ 5.0 ],
+					"vs_wfg_2::wfg2_time_range" : [ 0 ],
+					"vs_wfg_2::wfg2_wf" : [ 4.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"vs_offset+rot::offrot_anglemenu" : [ 0.0 ],
+					"vs_offset+rot::offrot_x_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_y_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_boundmode" : [ 0.0 ],
+					"vs_offset+rot::a_lock" : [ 0.0 ],
+					"vs_offset+rot::offrot_angle" : [ -0.692283464566929 ],
+					"vs_offset+rot::offrot_x" : [ 0.0 ],
+					"vs_offset+rot::offrot_y" : [ 0.0 ],
+					"vs_offset+rot::offrot_zoom" : [ 0.9 ],
+					"vs_filter_lp4x::lpf_freq" : [ 0.242125519685039 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm" : [ -0.5 ],
+					"vs_wfg_2::wfg2_freq" : [ 270.755910692913346 ],
+					"vs_wfg_2::wfg2_phase" : [ 0.0 ],
+					"vs_wfg_2::wfg2_phase_time_switch" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 0.0 ],
+					"vs_wfg_2::wfg2_time" : [ 1.0 ],
+					"vs_wfg_2::wfg2_time_range" : [ 0 ],
+					"vs_wfg_2::wfg2_wf" : [ 0.0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"vs_offset+rot::offrot_anglemenu" : [ 2.0 ],
+					"vs_offset+rot::offrot_x_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_y_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_boundmode" : [ 3.0 ],
+					"vs_offset+rot::a_lock" : [ 0.0 ],
+					"vs_offset+rot::offrot_angle" : [ 29.055119000000001 ],
+					"vs_offset+rot::offrot_x" : [ -0.019685 ],
+					"vs_offset+rot::offrot_y" : [ 0.019685 ],
+					"vs_offset+rot::offrot_zoom" : [ 1.708661393700788 ],
+					"vs_filter_lp4x::lpf_freq" : [ 0.242126 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm" : [ 0.418897637795277 ],
+					"vs_wfg_2::wfg2_freq" : [ 33.385826000000002 ],
+					"vs_wfg_2::wfg2_phase" : [ 0.0 ],
+					"vs_wfg_2::wfg2_phase_time_switch" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 1.0 ],
+					"vs_wfg_2::wfg2_time" : [ 5.0 ],
+					"vs_wfg_2::wfg2_time_range" : [ 0 ],
+					"vs_wfg_2::wfg2_wf" : [ 0.0 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"vs_offset+rot::offrot_anglemenu" : [ 2.0 ],
+					"vs_offset+rot::offrot_x_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_y_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_boundmode" : [ 0.0 ],
+					"vs_offset+rot::a_lock" : [ 1.0 ],
+					"vs_offset+rot::offrot_angle" : [ 29.055119000000001 ],
+					"vs_offset+rot::offrot_x" : [ -0.019685 ],
+					"vs_offset+rot::offrot_y" : [ 0.019685 ],
+					"vs_offset+rot::offrot_zoom" : [ 1.511811 ],
+					"vs_filter_lp4x::lpf_freq" : [ 0.246062992125984 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm" : [ 1.0 ],
+					"vs_wfg_2::wfg2_freq" : [ 33.385826000000002 ],
+					"vs_wfg_2::wfg2_phase" : [ 0.0 ],
+					"vs_wfg_2::wfg2_phase_time_switch" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 1.0 ],
+					"vs_wfg_2::wfg2_time" : [ 5.0 ],
+					"vs_wfg_2::wfg2_time_range" : [ 0 ],
+					"vs_wfg_2::wfg2_wf" : [ 0.0 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"vs_offset+rot::offrot_anglemenu" : [ 2.0 ],
+					"vs_offset+rot::offrot_x_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_y_range" : [ 0.0 ],
+					"vs_offset+rot::offrot_boundmode" : [ 2.0 ],
+					"vs_offset+rot::a_lock" : [ 0.0 ],
+					"vs_offset+rot::offrot_angle" : [ 29.055119000000001 ],
+					"vs_offset+rot::offrot_x" : [ -0.019685 ],
+					"vs_offset+rot::offrot_y" : [ 0.019685 ],
+					"vs_offset+rot::offrot_zoom" : [ 1.708661393700788 ],
+					"vs_filter_lp4x::lpf_freq" : [ 0.242126 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm" : [ 0.418897637795277 ],
+					"vs_wfg_2::wfg2_freq" : [ 81.57480237795275 ],
+					"vs_wfg_2::wfg2_phase" : [ 0.0 ],
+					"vs_wfg_2::wfg2_phase_time_switch" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 0.0 ],
+					"vs_wfg_2::wfg2_time" : [ 5.0 ],
+					"vs_wfg_2::wfg2_time_range" : [ 0 ],
+					"vs_wfg_2::wfg2_wf" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

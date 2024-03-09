@@ -1,0 +1,37 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Vsynth",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"vs_lfo::lfo_freq_range" : [ 1.0 ],
+					"vs_lfo::lfo_freq" : [ 0.2 ],
+					"vs_lfo::lfo_pw" : [ 50.0 ],
+					"vs_lfo::lfo_wave" : [ 0.0 ],
+					"vs_preview::preview_size" : [ 2.0 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_freq" : [ 60.0 ],
+					"vs_wfg_2::wfg2_pm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 0.0 ],
+					"vs_wfg_2::wfg2_time" : [ 0.0 ],
+					"vs_wfg_2::wfg2_time_range" : [ 0 ],
+					"vs_wfg_2::wfg2_wf" : [ 4.0 ],
+					"vs_sync_time::sync_divinvert" : [ 0.0 ],
+					"vs_sync_time::sync_divtime" : [ 2.0 ],
+					"attractr::time1" : [ 100.0 ],
+					"live.text" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

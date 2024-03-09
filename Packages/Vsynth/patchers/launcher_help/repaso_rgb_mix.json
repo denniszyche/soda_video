@@ -1,0 +1,62 @@
+{
+	"pattrstorage" : 	{
+		"name" : "repaso_rgb_mix",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"vs_rgb_mixer::rgbmix_b" : [ 1.0 ],
+					"vs_rgb_mixer::rgbmix_g" : [ 1.0 ],
+					"vs_rgb_mixer::rgbmix_r" : [ 1.0 ],
+					"vs_colorizer::clrizer_color" : [ 1.0, 0.003922, 0.003922, 1.0, 0.0, 1.0, 0.501961 ],
+					"vs_colorizer::clrizer_hue" : [ 38.314857 ],
+					"vs_mixer_3::mixer3_in_1" : [ 1.0 ],
+					"vs_mixer_3::mixer3_in_2" : [ 1.0 ],
+					"vs_mixer_3::mixer3_in_3" : [ 1.0 ],
+					"vs_mixer_3::mixer3_master" : [ 1.0 ],
+					"vs_wfg_2::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_freq" : [ 67.874016 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2::wfg2_sync_dir" : [ 0 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 0.0 ],
+					"vs_wfg_2::wfg2_time" : [ 2.0 ],
+					"vs_wfg_2::wfg2_wf" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_freq" : [ 122.992126 ],
+					"vs_wfg_2[1]::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_pm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2[1]::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_sync_dir" : [ 0 ],
+					"vs_wfg_2[1]::wfg2_sync_lock" : [ 2.0 ],
+					"vs_wfg_2[1]::wfg2_time" : [ 3.0 ],
+					"vs_wfg_2[1]::wfg2_wf" : [ 0.0 ],
+					"vs_wfg_2[2]::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2[2]::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2[2]::wfg2_freq" : [ 52.125984 ],
+					"vs_wfg_2[2]::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2[2]::wfg2_pm" : [ 0.0 ],
+					"vs_wfg_2[2]::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2[2]::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2[2]::wfg2_sync_dir" : [ 0 ],
+					"vs_wfg_2[2]::wfg2_sync_lock" : [ 3.0 ],
+					"vs_wfg_2[2]::wfg2_time" : [ 0.0 ],
+					"vs_wfg_2[2]::wfg2_wf" : [ 0.0 ],
+					"vs_colorizer[1]::clrizer_color" : [ 0.003922, 1.0, 0.003922, 1.0, 0.333333, 1.0, 0.501961 ],
+					"vs_colorizer[1]::clrizer_hue" : [ 120.0 ],
+					"vs_colorizer[2]::clrizer_color" : [ 0.003922, 0.003922, 1.0, 1.0, 0.666667, 1.0, 0.501961 ],
+					"vs_colorizer[2]::clrizer_hue" : [ 240.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

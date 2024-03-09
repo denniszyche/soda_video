@@ -1,0 +1,41 @@
+{
+	"pattrstorage" : 	{
+		"name" : "repaso_colorCH",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"vs_output::lowl_x" : [ 0.0 ],
+					"vs_output::lowl_y" : [ 1.0 ],
+					"vs_output::lowr_x" : [ 1.0 ],
+					"vs_output::lowr_y" : [ 1.0 ],
+					"vs_output::uppl_x" : [ 0.0 ],
+					"vs_output::uppl_y" : [ 0.0 ],
+					"vs_output::uppr_x" : [ 1.0 ],
+					"vs_output::uppr_y" : [ 0.0 ],
+					"vs_rgb_mixer::rgbmix_b" : [ 1.0 ],
+					"vs_rgb_mixer::rgbmix_g" : [ 1.0 ],
+					"vs_rgb_mixer::rgbmix_r" : [ 1.0 ],
+					"vs_frame_delay::fd_fdbck" : [ 0.0 ],
+					"vs_frame_delay::fd_mix" : [ 100.0 ],
+					"vs_frame_delay::fd_time" : [ 4.0 ],
+					"vs_frame_delay::fs_playback" : [ 0.0 ],
+					"vs_frame_delay[1]::fd_fdbck" : [ 0.0 ],
+					"vs_frame_delay[1]::fd_mix" : [ 100.0 ],
+					"vs_frame_delay[1]::fd_time" : [ 16.0 ],
+					"vs_frame_delay[1]::fs_playback" : [ 0.0 ],
+					"vs_frame_delay[2]::fd_fdbck" : [ 0.0 ],
+					"vs_frame_delay[2]::fd_mix" : [ 100.0 ],
+					"vs_frame_delay[2]::fd_time" : [ 40.0 ],
+					"vs_frame_delay[2]::fs_playback" : [ 0.0 ],
+					"vs_camera_s::cam_invx" : [ 0.0 ],
+					"vs_camera_s::cam_on" : [ 1.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
